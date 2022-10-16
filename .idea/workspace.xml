@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de0e5297-a36e-48ce-b37a-3d3fca26e7ed" name="Changes" comment="Added new branch FeatureGetDetails">
+    <list default="true" id="de0e5297-a36e-48ce-b37a-3d3fca26e7ed" name="Changes" comment="Prompt user for name, email and course">
+      <change afterPath="$PROJECT_DIR$/src/main/java/atu/ie/StudentDetails.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,7 @@
       <updated>1665866341409</updated>
       <workItem from="1665866343166" duration="1535000" />
       <workItem from="1665942585508" duration="440000" />
-      <workItem from="1665943830500" duration="3696000" />
+      <workItem from="1665943830500" duration="4852000" />
     </task>
     <task id="LOCAL-00001" summary="Added new project StudentApp">
       <created>1665867188567</created>
@@ -91,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665949048747</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Prompt user for name, email and course">
+      <created>1665951382456</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665951382456</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +118,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added new project StudentApp" />
     <MESSAGE value="Added new branch FeatureGetDetails" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new branch FeatureGetDetails" />
+    <MESSAGE value="Prompt user for name, email and course" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prompt user for name, email and course" />
   </component>
 </project>
