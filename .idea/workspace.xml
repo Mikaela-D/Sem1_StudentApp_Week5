@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de0e5297-a36e-48ce-b37a-3d3fca26e7ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" afterDir="false" />
+    <list default="true" id="de0e5297-a36e-48ce-b37a-3d3fca26e7ed" name="Changes" comment="Added new project StudentApp">
+      <change afterPath="$PROJECT_DIR$/src/test/java/temp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +22,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GBeKHb7AB62CuIxkH4VyonSofU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,7 +42,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Mikaela/OneDrive - Atlantic TU/OOP/Java/StudentApp_wk5"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -49,8 +54,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1665866341409</updated>
-      <workItem from="1665866343166" duration="713000" />
+      <workItem from="1665866343166" duration="1535000" />
+      <workItem from="1665942585508" duration="440000" />
+      <workItem from="1665943830500" duration="1361000" />
     </task>
+    <task id="LOCAL-00001" summary="Added new project StudentApp">
+      <created>1665867188567</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1665867188567</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +81,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added new project StudentApp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new project StudentApp" />
   </component>
 </project>
