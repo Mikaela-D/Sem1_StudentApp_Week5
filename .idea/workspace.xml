@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de0e5297-a36e-48ce-b37a-3d3fca26e7ed" name="Changes" comment="Added new project StudentApp">
-      <change afterPath="$PROJECT_DIR$/src/test/java/temp" afterDir="false" />
+    <list default="true" id="de0e5297-a36e-48ce-b37a-3d3fca26e7ed" name="Changes" comment="Added new branch FeatureGetDetails">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" afterDir="false" />
     </list>
@@ -46,6 +45,26 @@
     "last_opened_file_path": "C:/Users/Mikaela/OneDrive - Atlantic TU/OOP/Java/StudentApp_wk5"
   }
 }]]></component>
+  <component name="RunManager">
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="atu.ie.Student" />
+      <module name="StudentApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="atu.ie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Student" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,7 +75,7 @@
       <updated>1665866341409</updated>
       <workItem from="1665866343166" duration="1535000" />
       <workItem from="1665942585508" duration="440000" />
-      <workItem from="1665943830500" duration="1361000" />
+      <workItem from="1665943830500" duration="3696000" />
     </task>
     <task id="LOCAL-00001" summary="Added new project StudentApp">
       <created>1665867188567</created>
@@ -65,7 +84,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665867188567</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added new branch FeatureGetDetails">
+      <created>1665949048747</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665949048747</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added new project StudentApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new project StudentApp" />
+    <MESSAGE value="Added new branch FeatureGetDetails" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added new branch FeatureGetDetails" />
   </component>
 </project>
