@@ -9,6 +9,12 @@ public class StudentDetails {
         return name;
     }
 
+    public StudentDetails() {
+        this.name = "";
+        this.email = "";
+        this.course = "";
+    }
+
     public void setName(String name) {
         this.name = name;
     }
@@ -29,3 +35,7 @@ public class StudentDetails {
         this.course = course;
     }
 }
+
+
+
+
