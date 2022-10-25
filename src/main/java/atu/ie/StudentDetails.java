@@ -13,9 +13,7 @@ public class StudentDetails {
     }
 
     public StudentDetails(String name2) { //constructor 2
-        this.name = name;
-        this.email = email;
-        this.course = course;
+        this.name = name2;
     }
 
     public StudentDetails(String name3, String email3, String course3) { //constructor 3
