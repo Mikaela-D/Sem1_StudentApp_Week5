@@ -5,15 +5,26 @@ public class StudentDetails {
     private String email;
     private String course;
 
-    public String getName() {
-        return name;
-    }
 
-    public StudentDetails() {
+    public StudentDetails() { //default constructor
         this.name = "";
         this.email = "";
         this.course = "";
     }
+
+    public StudentDetails(String name2) { //constructor 2
+        this.name = name;
+        this.email = email;
+        this.course = course;
+    }
+
+    public StudentDetails(String name3, String email3, String course3) { //constructor 3
+        this.name = name3;
+        this.email = email3;
+        this.course = course3;
+    }
+
+    public String getName() { return name; }
 
     public void setName(String name) {
         this.name = name;

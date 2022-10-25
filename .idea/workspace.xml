@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de0e5297-a36e-48ce-b37a-3d3fca26e7ed" name="Changes" comment="Added new file called StudentDetails">
+    <list default="true" id="de0e5297-a36e-48ce-b37a-3d3fca26e7ed" name="Changes" comment="Added getter, setter and constructor">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/StudentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/StudentDetails.java" afterDir="false" />
@@ -28,6 +28,7 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -39,8 +40,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
   </component>
   <component name="RunManager">
     <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -76,7 +77,13 @@
       <workItem from="1666036849083" duration="534000" />
       <workItem from="1666038012489" duration="310000" />
       <workItem from="1666038514332" duration="3386000" />
-      <workItem from="1666094832681" duration="4648000" />
+      <workItem from="1666094832681" duration="6521000" />
+      <workItem from="1666118714472" duration="1189000" />
+      <workItem from="1666467492585" duration="2233000" />
+      <workItem from="1666555518524" duration="912000" />
+      <workItem from="1666636325278" duration="2780000" />
+      <workItem from="1666641669266" duration="33000" />
+      <workItem from="1666699614490" duration="3487000" />
     </task>
     <task id="LOCAL-00001" summary="Added new project StudentApp">
       <created>1665867188567</created>
@@ -106,7 +113,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665952560428</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added two instances to get name, email and course">
+      <created>1666099642904</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666099642904</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added getter, setter and constructor">
+      <created>1666099847079</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666099847079</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -129,6 +150,8 @@
     <MESSAGE value="Added new branch FeatureGetDetails" />
     <MESSAGE value="Prompt user for name, email and course" />
     <MESSAGE value="Added new file called StudentDetails" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added new file called StudentDetails" />
+    <MESSAGE value="Added two instances to get name, email and course" />
+    <MESSAGE value="Added getter, setter and constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added getter, setter and constructor" />
   </component>
 </project>
