@@ -42,7 +42,7 @@ public class Student {
 
 
 
-        //Created third instance of StudentDetails (constructor)
+        //Created third instance of StudentDetails (constructor).
         System.out.println("Please enter the third student name");
         String name3 = stringScanner.nextLine();
 
