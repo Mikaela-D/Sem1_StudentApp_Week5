@@ -14,7 +14,7 @@ public class StudentDetails {
 
     public StudentDetails(String name2) { //constructor 2
         this.name = name2;
-    }
+    } //constructor 2
 
     public StudentDetails(String name3, String email3, String course3) { //constructor 3
         this.name = name3;
@@ -22,7 +22,7 @@ public class StudentDetails {
         this.course = course3;
     }
 
-    public String getName() { return name; }
+    public String getName() { return name; } //methods
 
     public void setName(String name) {
         this.name = name;

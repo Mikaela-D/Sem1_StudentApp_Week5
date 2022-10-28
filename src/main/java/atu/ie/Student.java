@@ -53,7 +53,7 @@ public class Student {
         System.out.println("First email : " + studentInfo.getEmail());
         System.out.println("First course : " + studentInfo.getCourse());
 
-        System.out.println("Second name : " + studentInfo2.getName()); //
+        System.out.println("Second name : " + studentInfo2.getName());
         System.out.println("Second email : " + studentInfo2.getEmail());
         System.out.println("Second course : " + studentInfo2.getCourse());
 

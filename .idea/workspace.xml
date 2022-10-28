@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de0e5297-a36e-48ce-b37a-3d3fca26e7ed" name="Changes" comment="Made changes to constructors.">
+    <list default="true" id="de0e5297-a36e-48ce-b37a-3d3fca26e7ed" name="Changes" comment="Changed the order of the println">
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/atu/ie/StudentDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/atu/ie/StudentDetails.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,10 +39,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
   <component name="RunManager">
     <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="atu.ie.Student" />
@@ -84,6 +86,9 @@
       <workItem from="1666636325278" duration="2780000" />
       <workItem from="1666641669266" duration="33000" />
       <workItem from="1666699614490" duration="3487000" />
+      <workItem from="1666804568373" duration="2554000" />
+      <workItem from="1666886240413" duration="6831000" />
+      <workItem from="1666895871087" duration="7381000" />
     </task>
     <task id="LOCAL-00001" summary="Added new project StudentApp">
       <created>1665867188567</created>
@@ -141,7 +146,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666703536323</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Changed the order of the println">
+      <created>1666705400045</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666705400045</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -157,7 +169,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added new project StudentApp" />
@@ -167,6 +178,18 @@
     <MESSAGE value="Added two instances to get name, email and course" />
     <MESSAGE value="Added getter, setter and constructor" />
     <MESSAGE value="Made changes to constructors." />
-    <option name="LAST_COMMIT_MESSAGE" value="Made changes to constructors." />
+    <MESSAGE value="Changed the order of the println" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed the order of the println" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/atu/ie/Student.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
